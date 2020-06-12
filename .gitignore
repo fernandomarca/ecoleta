@@ -1,5 +1,5 @@
 server/node_modules
-server/uploads/*
+server/uploads/*.jpeg
 !server/uploads/.gitkeep
 
 *.sqlite
